@@ -1,0 +1,2 @@
+[console_scripts]
+puppy = puppy.app:main
